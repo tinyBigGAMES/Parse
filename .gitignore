@@ -80,3 +80,15 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+# Parse
+zip_latest_commit.cmd
+src/CPASCAL-BNF.md
+changes-diff.cmd
+changes.diff
+bin/res/src/*.txt
+_checkpoint.cmd
+bin/res/src/CPascal_BNF_Test_Suite_Specifications.md
+!bin/libs/*
+!bin/lld-link.exe
+!bin/LLVM-C.dll
